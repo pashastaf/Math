@@ -21,3 +21,11 @@ Main:
 Результат:
 
 ![изображение](https://github.com/pashastaf/Math/assets/91310796/80e6b8d4-a1cc-49cf-aa21-4633174a6691)
+
+Результат тестирования:
+
+![изображение](https://github.com/pashastaf/Math/assets/91310796/a15ca8dc-003e-4f39-9719-60e89eec4ed0)
+![изображение](https://github.com/pashastaf/Math/assets/91310796/8ec8a5c4-8152-444b-a047-7747391fcb37)
+![изображение](https://github.com/pashastaf/Math/assets/91310796/ca98cb23-2845-4ecf-87a9-f09911a6d2a9)
+
+
